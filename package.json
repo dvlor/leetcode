@@ -1,0 +1,19 @@
+{
+  "private": "true",
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "力扣题解",
+  "workspaces": [
+    "leet*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvlor/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvlor/leetcode/issues"
+  },
+  "homepage": "https://github.com/dvlor/leetcode#readme"
+}
